@@ -1,6 +1,6 @@
 {
-    "name": "bezbeli/shortcodes",
-    "description": "Wordpress shortcodes",
+    "name": "bezbeli/bs-video",
+    "description": "Filter for adding wrappers around embedded objects",
     "type": "package",
     "license": "MIT",
     "authors": [
